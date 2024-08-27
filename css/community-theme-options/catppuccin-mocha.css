@@ -12,7 +12,7 @@
   --button-text: var(--text);
   --button-text-hover: var(--text-hover);
 
-  --accent-color: 137, 180, 250; /* Mocha Blue */
+  --accent-color: 245, 194, 231; /* Mocha Blue */
   --accent-color-hover: rgb(var(--accent-color), 0.8);
   --link-color: var(--text);
   --link-color-hover: #89b4fa;
@@ -25,7 +25,8 @@
   /* Specials */
   --arr-queue-color: #a6e3a1; /* Servarr apps + Bazarr */
   --plex-poster-unwatched: #fab387;
-  --petio-spinner: invert(66%) sepia(15%) saturate(1451%) hue-rotate(185deg) brightness(105%) contrast(96%); /* Made with https://codepen.io/jsm91/embed/ZEEawyZ */ /* Blue */
+  --petio-spinner: invert(66%) sepia(15%) saturate(1451%) hue-rotate(185deg)
+    brightness(105%) contrast(96%); /* Made with https://codepen.io/jsm91/embed/ZEEawyZ */ /* Blue */
   --gitea-color-primary-dark-4: var(--accent-color);
   --overseerr-gradient: linear-gradient(
     var(--main-bg-color),
